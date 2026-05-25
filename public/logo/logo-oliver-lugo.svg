@@ -1,0 +1,8 @@
+<svg width="320" height="96" viewBox="0 0 320 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="96" height="96" rx="28" fill="#FF1B2E"/>
+<path d="M31 57.5C31 42.8 41.1 32 55.5 32C69.9 32 80 42.8 80 57.5C80 72.2 69.9 83 55.5 83C41.1 83 31 72.2 31 57.5ZM43.1 57.5C43.1 65.9 47.9 72 55.5 72C63.1 72 67.9 65.9 67.9 57.5C67.9 49.1 63.1 43 55.5 43C47.9 43 43.1 49.1 43.1 57.5Z" fill="white"/>
+<path d="M20 18H32V75H20V18Z" fill="#050505"/>
+<path d="M120 30H149.5C160.4 30 167.5 36.6 167.5 46.2C167.5 55.8 160.4 62.5 149.5 62.5H133.6V76H120V30ZM133.6 51.4H148.2C151.9 51.4 154.1 49.4 154.1 46.2C154.1 43.1 151.9 41.1 148.2 41.1H133.6V51.4Z" fill="white"/>
+<text x="120" y="28" fill="#A1A1AA" font-family="Inter, Arial" font-size="11" font-weight="800" letter-spacing="4">OLIVER LUGO</text>
+<text x="120" y="76" fill="white" font-family="Inter, Arial" font-size="30" font-weight="900">STUDIO</text>
+</svg>
